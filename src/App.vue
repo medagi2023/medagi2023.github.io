@@ -75,7 +75,7 @@
         class="navigation-tab"
         v-on:click="changeMenuBtn" 
         v-bind:class="{'selected-tab' : this.$data.page=='Sponsors'}">Sponsors</router-link>
-      <a href="http://www.medagi2023.github.io/#/" target="_blank" class="navigation-tab" :class="{'selected-tab' : this.$data.page=='Years'}">
+      <a href="http://medagi.github.io/#/" target="_blank" class="navigation-tab" :class="{'selected-tab' : this.$data.page=='Years'}">
   {{medAGIText}}
 </a>
     </nav>
@@ -159,7 +159,7 @@ export default {
       offsetY: 0,
       isSideOpened: false,
       hideNavBar: false,
-      viewingArchive: false,
+      viewingArchive: true,
     }}
 }
 </script>
