@@ -1,0 +1,116 @@
+[
+    {
+        "Name": "Seong Jae Hwang",
+        "Affliation": "Yonsei Univ."
+    },
+    {
+        "Name": "Yun Gu",
+        "Affliation": "Shanghai Jiao Tong University"
+    },
+    {
+        "Name": "Weidao Chen",
+        "Affliation": "Beijing Infervision Technology Co., Ltd."
+    },
+    {
+        "Name": "Xiaosong Wang",
+        "Affliation": "Shanghai AI Labatory"
+    },
+    {
+        "Name": "Ruimao Zhang",
+        "Affliation": "The Chinese University of Hong Kong, Shenzhen"
+    },
+    {
+        "Name": "Jingchen Ma",
+        "Affliation": "Columbia University"
+    },
+    {
+        "Name": "Yu Guang Wang",
+        "Affliation": "Shanghai Jiao Tong University"
+    },
+    {
+        "Name": "Jiancheng Yang",
+        "Affliation": "EPFL"
+    },
+    {
+        "Name": "Shunjun Wang",
+        "Affliation": "The Hong Kong Polytechnic University"
+    },
+    {
+        "Name": "Xuebin Zheng",
+        "Affliation": "Fosun AITrox"
+    },
+    {
+        "Name": "Hongyu Zhou",
+        "Affliation": "Tsinghua University"
+    },
+    {
+        "Name": "Jong Hak Moon",
+        "Affliation": "KAIST"
+    },
+    {
+        "Name": "Hyungyung Lee",
+        "Affliation": "KAIST",
+        "email": "ttumyche@kaist.ac.kr"
+    },
+    {
+        "Name": "Juan Caicedo",
+        "Affliation": "Broad Institute"
+    },
+    {
+        "Name": "Seyoung Chun",
+        "Affliation": "Seoul National University"
+    },
+    {
+        "Name": "Seungryong Kim",
+        "Affliation": "Korea University"
+    },
+    {
+        "Name": "Jinkyu Kim",
+        "Affliation": "Korea University"
+    },
+    
+    {
+        "Name": "Janghwan Choi",
+        "Affliation": "Ewha Womans University"
+    },
+    {
+        "Name": "Jintae Kwak",
+        "Affliation": "Korea University"
+    },
+    {
+        "Name": "Youngjung Uh",
+        "Affliation": "Yonsei University"
+    },
+    {
+        "Name": "Jaejun Yoo",
+        "Affliation": "UNIST"
+    },
+    {
+        "Name": "Changjae Oh",
+        "Affliation": "Queen Mary University of London"
+    },
+    {
+        "Name": "Jiyoung Lee",
+        "Affliation": "NAVER AI Lab"
+    },
+    {
+        "Name": "Sangryung Jeon",
+        "Affliation": "University of Michigan"
+    },
+    {
+        "Name": "Steve Lin",
+        "Affliation": "Microsoft Research Asia"
+    },
+    {
+        "Name": "Matteo Poggi",
+        "Affliation": "University of Bologna"
+    },
+    {
+        "Name": "Erfan Darzi",
+        "Affliation": "University of Groningen"
+    },
+    {
+        "Name": "Wonhwa Kim",
+        "Affliation": "POSTECH"
+    }
+]
